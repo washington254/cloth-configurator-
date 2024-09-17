@@ -11,17 +11,9 @@
 
 
 
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 So i realised not a lot of threejs configurators are out there(if there are i found a few) so i decided to create one of my own. i figured it might help you get a direction of what to do
 
-Here's why:
+Here's what i did:
 * created a platform and tweaked it a bit to changed colors based on UI
 * added the shirt from a  model online sketchfab license below
 
