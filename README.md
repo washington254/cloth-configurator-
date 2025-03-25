@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">THREEJS CLOTH CONFIGURATOR </h3>
+  <h3 align="center">THREEJS MORTAL COMBAT </h3>
 
 
 </div>
